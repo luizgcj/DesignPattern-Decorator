@@ -1,0 +1,15 @@
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\Decorator.exe
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\Decorator.deps.json
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.json
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\Decorator.runtimeconfig.dev.json
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\Decorator.dll
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\ref\Decorator.dll
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\bin\Debug\net5.0\Decorator.pdb
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfoInputs.cache
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.AssemblyInfo.cs
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.dll
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\ref\Decorator.dll
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.pdb
+C:\Projetos_CSharp\Decorator\Decorator\Decorator\obj\Debug\net5.0\Decorator.genruntimeconfig.cache
